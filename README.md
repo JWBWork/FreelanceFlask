@@ -4,9 +4,3 @@ This repo contains a very tiny API for my freelance site which allows users to c
 Initially I planned on hosting this on AWS using and EC2 instance, but thankfully I discovered AWS elastic beanstalk - which made deployment MUCH easier.
 
 I also wanted to ensure this could easily scale in the future, so from the beginning I built this with flask-blueprints. This way if I ever need to scale this up with multiple API endpoints it would be simple to distribute them across multiple modules and import as a single blueprint.
-
-## Project Setup
-With python installed testing this should be as simple as cloning the repo and issuing the following command:
-```bash
-python application.py
-```
