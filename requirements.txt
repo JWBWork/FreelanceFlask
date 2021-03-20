@@ -13,7 +13,7 @@ Flask-RESTful==0.3.8
 flask-talisman==0.7.0
 idna==2.9
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 loguru==0.4.1
 MarkupSafe==1.1.1
 pycparser==2.20
